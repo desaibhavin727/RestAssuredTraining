@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="day1.HTTPRequest"/>
+      <class name="day2.Pojo_PostRequest"/>
+      <class name="day2.WaysToCreatePostRequestBody"/>
+      <class name="day3.CookiesDemo"/>
+      <class name="day3.HeadersDemo"/>
+      <class name="day3.LoggingDemo"/>
+      <class name="day3.PathAndQueryParameters"/>
+      <class name="day4.ParsingJSONResponseData"/>
+      <class name="day5.ParsingXmlResponse"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
